@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434743757122",
+    "project_id": "ostad-flutter-5f442",
+    "storage_bucket": "ostad-flutter-5f442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434743757122:android:06c29477540bd8a5d220db",
+        "android_client_info": {
+          "package_name": "com.ostad.firebase_assaintment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_3PX2-bk-FSnyo3sCQ3S2k02fWwv6jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
